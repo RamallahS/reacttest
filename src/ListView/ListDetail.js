@@ -7,7 +7,7 @@ class ListDetail extends React.Component {
     return (
       <div className="list_detail">
         <h4>List Detail</h4>
-        <img src={} className="img-responsive" />
+        <img className="img-responsive" />
         
       </div>
     );
